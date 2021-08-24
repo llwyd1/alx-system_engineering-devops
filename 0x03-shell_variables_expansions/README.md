@@ -1,0 +1,1 @@
+**This directory contains executable files for the "Shell, init files, variables and expansions" project **
