@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Displays the PID for processes whose name contain the word bash
+n=0
+for i in $(pidof bash);
+do
+    if [ $n -gt 0 ]; then
+	echo "$i" bash
+    fi
+    n=$((n + 1))
+done
