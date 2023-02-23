@@ -19,4 +19,5 @@ This project is about bash loops, conditions and parsing
 ## Table of contents
 Files | Description
 ----- | -----------
-[1-for_best_school](./1-for_best_school) | bash script that displays "Best school" 10 times
+[1-for_best_school](./1-for_best_school) | bash script that displays "Best school" 10 times using a for loop
+[2-while_best_school](./2-while_best_school) | bash script that displays "Best school" 10 times  using a while loop"
