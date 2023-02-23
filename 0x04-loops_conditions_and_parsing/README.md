@@ -24,3 +24,4 @@ Files | Description
 [3-until_best_school](./3-until_best_school)  | bash script that displays "Best School" 10 times using an until loop
 [4-if_9_say_hi](./4-if_9_say_hi)  | bash script that displays "Best School" then on the 9th iteration displays "Best School" and then "Hi" on a newline
 [5-4_bad_luck_8_is_your_chance](./5-4_bad_luck_8_is_your_chance)  | loops from 1 to 10 and displays some strings
+[6-superstitious_numbers](6-superstitious_numbers)  | displays numbers from one to 20 then a string for the 4th, 9th and 17th iteration
