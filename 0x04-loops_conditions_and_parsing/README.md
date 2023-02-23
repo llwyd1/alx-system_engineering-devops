@@ -14,7 +14,7 @@ This project is about bash loops, conditions and parsing
 * What are files and other comparison operators, and how to use them
 
 ## Usage
-* all files where linted for syntax and style with [Shellcheck](https://intranet.alxswe.com/rltoken/joK6l_yEZ9N7T0GQ1RDjLA)
+* all files where linted for syntax and style with [Shellcheck](https://github.com/koalaman/shellcheck/wiki/SC2034)
 
 ## Table of contents
 Files | Description
