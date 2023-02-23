@@ -22,3 +22,4 @@ Files | Description
 [1-for_best_school](./1-for_best_school) | bash script that displays "Best school" 10 times using a for loop
 [2-while_best_school](./2-while_best_school)  | bash script that displays "Best school" 10 times  using a while loop
 [3-until_best_school](./3-until_best_school)  | bash script that displays "Best School" 10 times using an until loop
+[4-if_9_say_hi](./4-if_9_say_hi)  | bash script that displays "Best School" then on the 9th iteration displays "Best School" and then "Hi" on a newline
