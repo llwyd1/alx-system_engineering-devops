@@ -15,5 +15,6 @@ Learning Objectives
 ## Table of contents
 Files | Description
 ----- | -----------
-[0-what-is-my-pid](./0-what-is-my-pid) | A Bash script that displays its own PID
-[1-list_your_processes](./list-processes) | A Bash script that Displays a list of currently running processes
+[0-what-is-my-pid](./0-what-is-my-pid) | A bash script that displays its own PID
+[1-list_your_processes](./list-processes) | A bash script that Displays a list of currently running processes
+[2-show_your_bash_pid](./2-show_your_bash_pid) | A bash script that displays from a processes list, lines containing the bash word
