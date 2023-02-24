@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# Displays the PID, along with process name, of proceseses whose name
+# contains the word bash
+n=0
+for i in $(pidof bash);
+do
+	if [ $n -ge 0 ]
+	then
+		echo "$i" bash
+	fi
+	n=$((n + 1))
+done
