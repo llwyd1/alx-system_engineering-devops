@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# Stops the process invoked by 4-to_infinity_and_beyond
-kill "$(pgrep -f 4-to_infinity_and_beyond)"

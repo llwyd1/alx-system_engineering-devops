@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# Displays all active IPv4 on the machine it's exercuted on
-ifconfig | grep -Eo "inet ([0-9]*\.){3}[0-9]*" | cut -b 6-

@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# fixes apache in a Docker container
-
-sudo service apache2 start
